@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Developed by HackHorizon team members Piyush Chafle, Siddharth Parihar, Kunal Panche, Khushi Rokde, and Hitesh Mankar. Highlights top local food vendors, connecting customers with hidden culinary gems. Supports small businesses and celebrates community flavors. Keywords: local vendors, culinary experience, small business support, community flavors, hidden gems.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
