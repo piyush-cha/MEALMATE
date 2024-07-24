@@ -10,7 +10,7 @@ const AppDownload = () => {
             <div className="app-download-platforms">
                 <section id="food">
                     <div>
-                        <h2 className="title-text"> H</h2>
+                        <h2 className="title-text"> Hidden gems</h2>
                     </div>
                     <div className="food-container">
                         {/*======Card Start ----============*/}
