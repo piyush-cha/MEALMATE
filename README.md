@@ -1,7 +1,3 @@
-Here’s the simplified version without the markdown section labels:  
-
----
-
 # MealMate  
 
 [Visit MealMate](https://mealmate-lovat.vercel.app/)  
